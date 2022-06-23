@@ -1,7 +1,6 @@
-[![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ajor Moses</h1>
 <h3 align="center">A passionate software developer</h3>
-<img align="right" alt="Coding" width="300" border-radius="50%" src="https://avatars.githubusercontent.com/ajormoses">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajormoses&label=Profile%20views&color=0e75b6&style=flat" alt="ajormoses" /> </p>
