@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ajor_moses" target="blank"><img src="https://img.shields.io/twitter/follow/ajor_moses?logo=twitter&style=for-the-badge" alt="ajor_moses" /></a> </p>
 
-- 🌱 I’m currently learning **TailwindCSS, Vue.js**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Science and technology**
 
